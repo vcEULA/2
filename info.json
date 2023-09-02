@@ -1,0 +1,226 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://10086.tp6637.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 8483,
+            "children": [
+                {
+                    "url": "http://10086.tp6637.cn/img/bg.png",
+                    "path": "img/bg.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://q1.qlogo.cn/g?b=qq&nk=10001&s=640",
+                    "saved": false
+                },
+                {
+                    "url": "http://10086.tp6637.cn/img/svip.png",
+                    "path": "img/svip.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://10086.tp6637.cn/img/zan.png",
+                    "path": "img/zan.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://api.ixiaowai.cn/mcapi/mcapi.php",
+                    "saved": false
+                },
+                {
+                    "url": "http://api.map.baidu.com/api?v=2.0&ak=6yAoynmTPNlTBa8z1X4LfwGE",
+                    "saved": false
+                },
+                {
+                    "url": "http://10086.tp6637.cn/js/lmeinet.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://sdk.51.la/js-sdk-pro.min.js?id=JZ0x40ucFkKz5VGW&ck=JZ0x40ucFkKz5VGW",
+                    "path": "js/js-sdk-pro.min.js",
+                    "saved": true,
+                    "size": 32100,
+                    "children": []
+                },
+                {
+                    "url": "http://10086.tp6637.cn/js/jquery-1.11.0.min.js",
+                    "path": "js/jquery-1.11.0.min.js",
+                    "saved": true,
+                    "size": 96383,
+                    "children": []
+                },
+                {
+                    "url": "http://10086.tp6637.cn/js/sweetalert.min.js",
+                    "path": "js/sweetalert.min.js",
+                    "saved": true,
+                    "size": 40808,
+                    "children": []
+                },
+                {
+                    "url": "http://10086.tp6637.cn/js/main.js",
+                    "path": "js/main.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://unpkg.com/layui@2.6.8/dist/layui.js",
+                    "path": "js/layui.js",
+                    "saved": true,
+                    "size": 291286,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/gh/kaliisra/myblogstatic/kehuduan-js/fetch.min.js",
+                    "path": "js/fetch.min.js",
+                    "saved": true,
+                    "size": 11611,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.gmit.vip/layer/3.1.1/layer.js",
+                    "path": "js/layer.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://10086.tp6637.cn/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 3531,
+                    "children": [
+                        {
+                            "url": "http://10086.tp6637.cn/img/bg.jpg",
+                            "path": "img/bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://unpkg.com/layui@2.6.8/dist/css/layui.css",
+                    "path": "css/layui.css",
+                    "saved": true,
+                    "size": 79843,
+                    "children": [
+                        {
+                            "url": "https://unpkg.com/layui@2.6.8/dist/font/iconfont.eot",
+                            "path": "fonts/iconfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://unpkg.com/layui@2.6.8/dist/font/iconfont.woff2",
+                            "path": "fonts/iconfont.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://unpkg.com/layui@2.6.8/dist/font/iconfont.woff",
+                            "path": "fonts/iconfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://unpkg.com/layui@2.6.8/dist/font/iconfont.ttf",
+                            "path": "fonts/iconfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://unpkg.com/layui@2.6.8/dist/font/iconfont.svg",
+                            "path": "img/iconfont.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://10086.tp6637.cn/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://10086.tp6637.cn/etc/1.m4a",
+                    "path": "other/1.m4a",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-mpzds-cn-de2c25q",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://10086.tp6637.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://10086.tp6637.cn/",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Wed, 02 Feb 2022 12:44:44 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "strict-transport-security": "max-age=31536000"
+            }
+        },
+        "time": {
+            "start": "2022-02-02T12:44:43.602Z",
+            "end": "2022-02-02T12:45:23.539Z"
+        },
+        "remark": [],
+        "title": "",
+        "ip": "49.233.100.242",
+        "url": "http://10086.tp6637.cn/",
+        "main": "index.html",
+        "domain": "www.mpzds.cn",
+        "origin": "http://www.mpzds.cn",
+        "totalSize": "564 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://10086.tp6637.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
